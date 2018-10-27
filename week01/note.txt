@@ -1,0 +1,19 @@
+﻿- quản lý thuê và trả đĩa: trả đĩa, thuê đĩa, xem tình trạng đĩa
+- thuê đĩa: function kiemtratratre();
+- trả đĩa: 
+	+ function kiemtradattruoc(); 
+	+ gandiadattruoc(); 
+	+ themphitratre() -> thanh toán;
+- xem tình trạng đĩa;
+- huỷ đặt trước đĩa;
+- đặt trước đĩa;
+- quản lý hồ sơ trả trể: thanh toán; tìm nợ trả trể(nhập thông tin để tìm hồ sơ trả trể); huỷ nợ phí
+- kiểm tra hồ sơ trả trể: thanh toán;
+- tiến hành thanh toán: tìm kiếm nợ trả trể + function thanhtoan() + trả hết nợ, trả 1 phần
+- quản lý khách hàng CRUD;
+- quản lý danh sách tựa đĩa CRUD;
+- quản lý đĩa trong kho CRUD;
+- thống kê hồ sơ khách: tất cả, trả trể, nợ phí
+- thống kê tựa đĩa đang bán
+- cập nhật giá thuê đĩa
+- cập nhật thời gian thuê
